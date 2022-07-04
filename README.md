@@ -5,5 +5,5 @@ https://docs.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-portal?
 
 
 
-link for the code
+link for the  vote front and back code
 :
